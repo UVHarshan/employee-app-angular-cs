@@ -1,0 +1,64 @@
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\bin\Debug\net8.0\appsettings.Development.json
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\bin\Debug\net8.0\appsettings.json
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\bin\Debug\net8.0\Employee-App.exe
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\bin\Debug\net8.0\Employee-App.deps.json
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\bin\Debug\net8.0\Employee-App.runtimeconfig.json
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\bin\Debug\net8.0\Employee-App.dll
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\bin\Debug\net8.0\Employee-App.pdb
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\Employee-App.csproj.AssemblyReference.cache
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\Employee-App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\Employee-App.AssemblyInfoInputs.cache
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\Employee-App.AssemblyInfo.cs
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\Employee-App.csproj.CoreCompileInputs.cache
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\Employee-App.MvcApplicationPartsAssemblyInfo.cs
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\Employee-App.MvcApplicationPartsAssemblyInfo.cache
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\staticwebassets.build.json
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\staticwebassets.development.json
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\staticwebassets\msbuild.Employee-App.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\staticwebassets\msbuild.build.Employee-App.props
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Employee-App.props
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Employee-App.props
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\scopedcss\bundle\Employee-App.styles.css
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\Employee.6AF907D9.Up2Date
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\Employee-App.dll
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\refint\Employee-App.dll
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\Employee-App.pdb
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\Employee-App.genruntimeconfig.cache
+D:\Education\Coding\C# Projects\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\ref\Employee-App.dll
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\bin\Debug\net8.0\appsettings.Development.json
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\bin\Debug\net8.0\appsettings.json
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\bin\Debug\net8.0\Employee-App.exe
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\bin\Debug\net8.0\Employee-App.deps.json
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\bin\Debug\net8.0\Employee-App.runtimeconfig.json
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\bin\Debug\net8.0\Employee-App.dll
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\bin\Debug\net8.0\Employee-App.pdb
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\Employee-App.csproj.AssemblyReference.cache
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\Employee-App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\Employee-App.AssemblyInfoInputs.cache
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\Employee-App.AssemblyInfo.cs
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\Employee-App.csproj.CoreCompileInputs.cache
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\Employee-App.MvcApplicationPartsAssemblyInfo.cs
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\Employee-App.MvcApplicationPartsAssemblyInfo.cache
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\staticwebassets.build.json
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\staticwebassets.development.json
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\staticwebassets\msbuild.Employee-App.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\staticwebassets\msbuild.build.Employee-App.props
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Employee-App.props
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Employee-App.props
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\scopedcss\bundle\Employee-App.styles.css
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\Employee.6AF907D9.Up2Date
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\Employee-App.dll
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\refint\Employee-App.dll
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\Employee-App.pdb
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\Employee-App.genruntimeconfig.cache
+D:\Education\Coding\Assignments\Contacts App\backend\Employee-App\Employee-App\obj\Debug\net8.0\ref\Employee-App.dll
