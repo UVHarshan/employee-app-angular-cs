@@ -6,6 +6,7 @@
         <th>Name</th>
         <th>Department</th>
         <th>Position</th>
+        <th>Actions</th> 
       </tr>
     </thead>
     <tbody>
@@ -14,6 +15,10 @@
         <td>{{ employee.name }}</td>
         <td>{{ employee.department }}</td>
         <td>{{ employee.position }}</td>
+        <td>
+          <button (click)="editEmployee(employee)">Update</button>
+          <button (click)="deleteEmployee(employee.id)">Delete</button>
+        </td>
       </tr>
     </tbody>
   </table>

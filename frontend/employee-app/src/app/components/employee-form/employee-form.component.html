@@ -1,4 +1,4 @@
-<h2>Add New Employee</h2>
+<h2>{{ employee.id === 0 ? 'Add New Employee' : 'Edit Employee' }}</h2>
 <form (ngSubmit)="onSubmit()" #employeeForm="ngForm">
   <div>
     <label for="name">Name:</label>
@@ -15,5 +15,7 @@
     <input type="text" id="department" [(ngModel)]="employee.department" name="department" required>
   </div>
 
-  <button type="submit" [disabled]="!employeeForm.form.valid">Add Employee</button>
+  <button type="submit" [disabled]="!employeeForm.form.valid">
+    {{ employee.id === 0 ? 'Add Employee' : 'Update Employee' }}
+  </button>
 </form>
